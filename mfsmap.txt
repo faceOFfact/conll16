@@ -1,0 +1,45 @@
+but	2652	Comparison.Contrast	70.48
+and	2334	Expansion.Conjunction	97.56
+also	1410	Expansion.Conjunction	99.93
+if	980	Contingency.Condition	96.12
+when	802	Temporal.Synchrony	60.35
+because	677	Contingency.Cause.Reason	99.7
+while	631	Comparison.Contrast	56.42
+as	559	Temporal.Synchrony	74.78
+after	460	Temporal.Asynchronous.Succession	99.78
+however	380	Comparison.Contrast	68.68
+although	267	Comparison.Concession	50.19
+then	266	Temporal.Asynchronous.Precedence	92.48
+before	261	Temporal.Asynchronous.Precedence	98.85
+though	261	Comparison.Concession	52.11
+so	212	Contingency.Cause.Result	99.53
+meanwhile	156	Temporal.Synchrony	80.13
+for example	153	Expansion.Instantiation	98.69
+still	151	Comparison.Contrast	47.68
+since	150	Contingency.Cause.Reason	58.67
+until	133	Temporal.Asynchronous.Precedence	79.7
+in addition	129	Expansion.Conjunction	100.0
+instead	95	Expansion.Alternative.Chosen alternative	95.79
+thus	88	Contingency.Cause.Result	100.0
+yet	84	Comparison.Contrast	53.57
+moreover	83	Expansion.Conjunction	100.0
+in addition	129	Expansion.Conjunction
+thus	88	Contingency.Cause.Result
+moreover	83	Expansion.Conjunction
+for instance	76	Expansion.Instantiation
+as a result	63	Contingency.Cause.Result
+if then	34	Contingency.Condition
+by contrast	25	Comparison.Contrast
+therefore	21	Contingency.Cause.Result
+so that	21	Contingency.Cause.Result
+in other words	15	Expansion.Restatement
+thereby	11	Contingency.Cause.Result
+furthermore	10	Expansion.Conjunction
+afterward	10	Temporal.Asynchronous.Precedence
+in contrast	10	Comparison.Contrast
+consequently	9	Contingency.Cause.Result
+by comparison	8	Comparison.Contrast
+likewise	8	Expansion.Conjunction
+further	6	Expansion.Conjunction
+additionally	6	Expansion.Conjunction
+as well	6	Expansion.Conjunction

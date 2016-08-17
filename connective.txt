@@ -1,0 +1,96 @@
+accordingly	d
+additionally	d
+after	s
+afterwards	d
+also	d
+alternatively	d
+although	s
+and	c
+as a result	d
+as an alternative	d
+as if	s
+as long as	s
+as soon as	s
+as though	s
+as well	d
+as	s
+because	s
+before and after	s
+before	s
+besides	d
+but	c
+by comparison	d
+by contrast	d
+by then	d
+consequently	d
+conversely	d
+earlier	d
+else	c
+except	d
+finally	d
+for example	d
+for instance	d
+for	s
+further	d
+furthermore	d
+hence	d
+however	s
+if and when	s
+if	s
+in addition	d
+in contrast	d
+in fact	d
+in other words	d
+in particular	d
+in short	d
+in sum	d
+in the end	d
+in turn	d
+indeed	d
+insofar as	s
+instead	d
+later	d
+lest	s
+likewise	d
+meantime	d
+meanwhile	d
+moreover	d
+much as	s
+nevertheless	d
+next	d
+nonetheless	d
+nor	c
+now that	s
+on the contrary	d
+on the other hand	d
+once	s
+or	c
+otherwise	d
+overall	d
+plus	c
+previously	d
+rather	d
+regardless	d
+separately	d
+similarly	d
+simultaneously	d
+since	s
+so that	s
+so	s
+specifically	d
+still	d
+then	c
+thereafter	d
+thereby	d
+therefore	d
+though	s
+thus	d
+till	s
+ultimately	d
+unless	s
+until	s
+when and if	s
+when	s
+whereas	d
+while	s
+yet	c
