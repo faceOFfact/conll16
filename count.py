@@ -39,5 +39,3 @@ for line in file:
         else:
             rare[sense] = rare[sense]+1
 print(rare)
-
-vnaonvaorvoavraonervoairvoa
